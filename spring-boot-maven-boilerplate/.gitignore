@@ -1,0 +1,6 @@
+target
+.settings
+/application.log
+repo
+.idea
+*.iml
